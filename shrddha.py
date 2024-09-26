@@ -1,1 +1,0 @@
-print("god bless you with whatever you want")
