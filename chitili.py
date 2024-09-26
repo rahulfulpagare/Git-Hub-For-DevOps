@@ -1,1 +1,0 @@
-print("python is automation language")
