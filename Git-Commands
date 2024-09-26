@@ -1,0 +1,29 @@
+Id CommandLine
+  -- -----------
+
+git init
+git status
+rm .\testing.py
+python .\testing.py
+git add .\testing.py
+git status
+git rm --cached .\testing.py
+git add .\testing.py
+git rm --cached .\testing.py
+git status
+git config --global user.email "fulpagarerahul69devops@gmail.com"
+git config --global user.email "rahulfulpagare"
+git commit -m "added testing.py"
+rm .\testing.py
+git status
+git restore testnig.py
+
+git remote add origin https://github.com/rahulfulpagare/Git-Hub-For-DevOps.git
+
+git remote -v
+git remote add origin https://github.com/rahulfulpagare/Git-Hub-For-DevOpsGit-Hub-For-DevOps-Main.git     
+git remote add origin https://github.com/rahulfulpagare/Git-Hub-For-DevOps.git
+git push -u origin master
+git push origin master
+get remote set-url origin https://TOKEN_KEY/rahulfulpagare/G
+git push origin master
